@@ -1,7 +1,8 @@
 function Footer()  {
     return(
-        <div className="footer-container">
-        <h1 className="footer">[Portfolio Made With React]</h1>
+        <div className="containerFooter">
+        <h1 className="footer">[MyReactfolio made with React]</h1>
+        <a href="https://github.com/parkerjustice?tab=repositories">Parker's GitHub</a>
         </div>
     )
 }
