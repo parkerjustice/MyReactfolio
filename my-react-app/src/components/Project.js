@@ -1,7 +1,4 @@
 import React, { useState } from 'react';
-
-
-
 const Projects = ({ sites }) => {
 
         return(
