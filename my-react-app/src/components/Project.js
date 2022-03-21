@@ -24,4 +24,4 @@ const Projects = ({ sites }) => {
         
     }
 
-export default Projects
+export default Projects;
