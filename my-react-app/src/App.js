@@ -9,8 +9,7 @@ function App() {
   return (
     <div className="App">
       <Header className="appTitle">
-        <img src="/logo.svg" className="App-logo" alt="logo" />
-        <h1>React Posts Sharer</h1>
+        <h1>Parker Justice React</h1>
       </Header>
       <About/>
       <Projects/>
